@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
   leftSide.style.alignItems = "center";
   leftSide.innerHTML = `
     <img src="https://raw.githubusercontent.com/Neo-Ayush-jha/chat/refs/heads/main/logo.webp" alt="Logo" style="height: 30px; margin-right: 10px;" />
-    <strong style="font-size: 16px; color: #000;">TAU Enterprise</strong>
+    <strong style="font-size: 16px; color: #000;">AI Noir</strong>
   `;
 
   const rightSide = document.createElement("div");
